@@ -1,0 +1,8 @@
+﻿  Server.cpp
+C:\Users\adubo\OneDrive\Рабочий стол\lab\OperatingSystems\lab5\OS_lab_6\Server\Server.cpp(72,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\adubo\OneDrive\Рабочий стол\lab\OperatingSystems\lab5\OS_lab_6\Server\Server.cpp(155,11): warning C4129: H: неизвестная escape-последовательность
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 156 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Server.vcxproj -> C:\Users\adubo\OneDrive\Рабочий стол\lab\OperatingSystems\lab5\OS_lab_6\x64\Release\Server.exe

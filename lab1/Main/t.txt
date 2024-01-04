@@ -1,0 +1,5 @@
+Reporter
+Employee number, employee name, hours, salary
+2 t 8 56
+2 y 6 42
+1 r 6 42
